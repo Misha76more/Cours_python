@@ -1,1 +1,2 @@
-file created for further work
+message = "Hallo World"
+print(message)
